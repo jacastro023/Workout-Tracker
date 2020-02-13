@@ -24,9 +24,22 @@ The user should be able to:
 
 ## screenshots
 * This is the initial page
+![Image description](images/main.png)
 
-* This is how the Dashboard looks
+* This is how the stats looks
+![Image description](images/stats.png)
 
 * The page to continue an excersise
+![Image description](images/add.png)
 
 * Page where user can create an excersise
+![Image description](images/continue.png)
+
+## Final Thoughts
+* This app was a great way to see how to work well with routes.
+
+* Making this deploy with heroku, I had to make sure the database was changed to be able to work with heroku.
+
+* connecting the databased was a lot of work and took a lot of tries to make it load the seed file.
+
+* Heroku is a great way to see how you are going to work when having to change the setup for connecting your databased if they change.
