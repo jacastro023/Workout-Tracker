@@ -22,3 +22,11 @@ The user should be able to:
 
 * I also forgot to require the routes in the app.use setup and so it was giving me an error that there was no middleware setup for it.
 
+## screenshots
+* This is the initial page
+
+* This is how the Dashboard looks
+
+* The page to continue an excersise
+
+* Page where user can create an excersise
