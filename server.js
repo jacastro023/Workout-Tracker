@@ -14,7 +14,6 @@ app.use(logger("dev"));
 app.use(express.static("public"));
 
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://user1:password1@ds147520.mlab.com:47520/heroku_lr7bf1fm', {
-  useNewUrlParser: true,
   useMongoClient: true
 });
 
